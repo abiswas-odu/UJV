@@ -1,0 +1,11 @@
+.menu-bar .label {
+  -fx-font-family: monospace;  
+  -fx-font-size: 20;
+  -fx-text-fill: red;
+}
+ 
+.menu-item .label {
+  -fx-font-family: monospace;  
+  -fx-font-size: 20;
+  -fx-text-fill: green;
+}
